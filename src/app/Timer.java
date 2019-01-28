@@ -3,7 +3,7 @@ package app;
 class Timer {
     private double mTime;
 
-    public void Timer() {
+    public Timer() {
         mTime = 0.;
     }
 
