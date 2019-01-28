@@ -2,7 +2,7 @@ package app;
 
 public class App {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello Timer");
+        System.out.println("Hallo Timer");
 
         Timer t = new Timer();
         System.out.println(t.currentTime());  
