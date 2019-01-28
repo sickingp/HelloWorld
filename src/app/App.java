@@ -14,5 +14,6 @@ public class App {
         System.out.println(t.currentTime());
 
         System.out.println("All done....");
+        System.out.println("Alternate ending");
        }
 }
