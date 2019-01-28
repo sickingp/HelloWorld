@@ -10,7 +10,7 @@ public class App {
         System.out.println(t.currentTime());
         t.increment(-1.);
         System.out.println(t.currentTime());
-        t.increment(200.);
+        t.increment(100.);
         System.out.println(t.currentTime());
 
         System.out.println("All done....");
