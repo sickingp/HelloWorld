@@ -15,5 +15,6 @@ public class App {
 
         System.out.println("All done....");
         System.out.println("Alternate ending");
+        System.out.println("**************");
        }
 }
