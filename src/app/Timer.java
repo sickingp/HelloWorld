@@ -8,7 +8,7 @@ class Timer {
     }
 
     public double increment(double incr) {
-        String incrementing = "Incrementing in Timer class";
+        String incrementing = "Incrementing in Timer class....";
         mTime += incr;
         System.out.println(incrementing);
         return mTime;
